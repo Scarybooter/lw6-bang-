@@ -1,0 +1,15 @@
+{
+    "name": "scarybooter/bankfan",
+    "autoload": {
+        "psr-4": {
+            "Bank\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sanya",
+            "email": "Nevzlomaech.limonchik@mail.ru"
+        }
+    ],
+    "require": {}
+}
